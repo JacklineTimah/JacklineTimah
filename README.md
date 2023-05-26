@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @JacklineTimah
 - 👀 I’m interested in Artificial Intelligence,UI/UX designing, and Web development
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on any project available pertaining to UI/UX and html programming
+- 💞️ I’m looking to collaborate on any project available pertaining to UI/UX and web development
+- Jackline is a hydrogeologist/hydrologist and a GIS Specialist
 - 📫 How to reach me, you can email me through jacklinetimah57@gmail.com
 
 <!---
